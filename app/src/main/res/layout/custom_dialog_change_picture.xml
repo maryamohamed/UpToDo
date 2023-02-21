@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center"
+    android:weightSum="2"
+    android:background="@color/background"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_custom_take_picture"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/btn_effect"
+        app:backgroundTint="@null"
+        android:layout_weight="1"
+        android:textAllCaps="false"
+        android:text="@string/take_picture" />
+
+    <Button
+        android:id="@+id/btn_custom_import_from_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:background="@drawable/btn_effect"
+        app:backgroundTint="@null"
+        android:textAllCaps="false"
+        android:text="@string/import_from_gallery" />
+</LinearLayout>

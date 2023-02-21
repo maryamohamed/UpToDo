@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FF000000</color>
+    <color name="purple_500">#734BBA</color>
+    <color name="purple_700">#FF000000</color>
+    <color name="teal_200">#808687E7</color>
+    <color name="teal_700">#808687E7</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    // Maryam
+    <color name="background">#121212</color>
+    <color name="tv_fillColor">#1D1D1D</color>
+    <color name="gray"> #363636</color>
+    <color name="purple">#8687E7</color>
+    <color name="purple_btn">#808687E7</color>
+    <color name="border">#70FFFFFF</color>
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="text_view_bg">#363636</color>
+    <color name="intro_description_color">#656565</color>
+
+<!--    // Mohamed &ndash;&gt; profile-->
+<!--    // mohamed &ndash;&gt; add_task-->
+<!--    <color name="colorPrimary">#FFFFFF</color>-->
+<!--    <color name="colorAccent">#000000</color>-->
+</resources>

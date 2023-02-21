@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">ITI_Project</string>
+
+
+    <string name="login_with_fingerprint">LOGIN WITH FINGERPRINT</string>
+    <string name="please_login_to_your_account_or_create_new_account_to_continue">Please login to your account or create new account to continue</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="login_with_password">LOGIN WITH PASSWORD</string>
+    <string name="welcome_to_uptodo">Welcome to UpTodo</string>
+    <string name="next">Next</string>
+    <string name="register">Register</string>
+    <string name="organize_your_tasks">Organize your tasks</string>
+    <string name="you_can_organize_your_daily_tasks_by_adding_your_tasks_into_separate_categories">You can organize your daily tasks by adding your tasks into separate categories</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+
+
+    <string name="Reset">Reset</string>
+    <string name="Start">Start</string>
+    <string name="Counter">00:00</string>
+
+
+    <string name="all_tasks">All tasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_description">Task Description</string>
+    <string name="_19">19</string>
+    <string name="monday">Monday</string>
+    <string name="may">May</string>
+    <string name="status">Status</string>
+    <string name="_10_30">10:30</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message">Write Details for your Task</string>
+    <string name="task_date_amp_time"><![CDATA[Task Date & time]]></string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="close">Close</string>
+    <string name="congratulations">Completed!</string>
+    <string name="done">Done</string>
+    <string name="complete">Complete</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+
+
+    <string name="profile">Profile</string>
+    <string name="mohamed_ramadan">Mohamed Ramadan</string>
+    <string name="profile_icon">profile_icon</string>
+    <string name="_5_task_left">5 task left</string>
+    <string name="_10_task_done">10 task done</string>
+    <string name="settings">Settings</string>
+    <string name="app_settings">App Settings</string>
+    <string name="account">Account</string>
+    <string name="change_account_name">Change account name</string>
+    <string name="change_account_password">Change account password</string>
+    <string name="change_account_image">Change account image</string>
+    <string name="new_version">New Version</string>
+    <string name="about_us">About us</string>
+    <string name="faq">FAQ</string>
+    <string name="help_amp_feedback"><![CDATA[Help & Feedback]]></string>
+    <string name="support_us">Support us</string>
+    <string name="log_out">Log out</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="enter_old_password">Enter old password</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="import_from_gallery">Import from gallery</string>
+    <string name="change_app_color">Change app color</string>
+    <string name="change_app_typography">Change app typography</string>
+    <string name="change_app_language">Change app language</string>
+    <string name="list_description">List Description</string>
+
+    // questions
+    <string name="q1">What is the purpose of the to-do list ?</string>
+    <string name="q2">Why is the to-do list important ?</string>
+    <string name="q3">When should you create a to-do list ?</string>
+    <string name="q4">How many items should be on your to-do list ?</string>
+    <string name="q5">How do I create a to-do list on my phone ?</string>
+
+
+    <string name="a1">The main purpose of a to do list is to provide yourself with a list of your priorities in order to ensure that you do not forget anything and to be able to effectively plan your tasks so that they are all done in the correct time frame. A well reviewed and optimized to-do list will put your mind at ease, since you will always have a clear picture of what you need to get done.</string>
+    <string name="a2">A to-do list is important because it keeps your tasks and commitments in order. Organized lists make things more manageable and keep you mentally focused on the tasks at hand.</string>
+    <string name="a3">The best time to make your daily to-do list is the night before you get to do things or early in the morning. The biggest benefit of a well-organized to-do list is the peace of mind that comes with having a proper plan. Having a proper plan for the next day can lead to a good night is sleep when you go to bed. Creating a to-do list early in the morning will provide you with a plan for a successful day.</string>
+    <string name="a4">It is important to make your to-do list manageable. An impossible-to-do list can add to feelings of stress. It is often recommended that to-do lists contain a maximum of 3 items. If you need more than 3 items, try to include no more than 1 "big" task and fill the rest of the list with some "medium" or "small" tasks that are easy to accomplish.</string>
+    <string name="a5">To-do list apps like ours are the best ways to create a to-do list on your phone. Through the app: Easily create and sync your to-do lists across multiple devices so that you have your to-do list whether you are working on your computer, phone, or tablet.</string>
+
+
+    <string name="about_1">Smart daily planner
+Set yourself up for success with My Day , smart and personalized suggestions for updating your daily or weekly to do list. With both a Microsoft desktop app and a mobile app available, it is easy to stay on task throughout the day </string>
+    <string name="about_2">Manage your to-do list online
+A true cross-platform task management app. Whether you are at home using the desktop app or you are using the mobile app on the go, you can access your to do list and stay organized.</string>
+    <string name="about_3">Sharing is easy
+Sharing your to-do list online can help keep you connected with friends, family, and colleagues.</string>
+    <string name="about_4">Make task management easier
+You can break tasks down into simple steps, add due dates, and set reminders for your daily checklist to keep track of your tasks.</string>
+</resources>
